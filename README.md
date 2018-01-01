@@ -1,4 +1,4 @@
-# AhMyth Android Rat
+# Android Rat by ArMiN
 ###### Beta Version
 It consists of two parts :
 * Server side : desktop application based on electron framework (control panel)
@@ -41,12 +41,11 @@ It consists of two parts :
 
 ## Video Tutorial
 <p align="center">
-<a href="https://www.youtube.com/watch?v=DDIZTABABzs">
   <img src="https://img.youtube.com/vi/DDIZTABABzs/0.jpg" width="600"/>
 </a></p>
 
 
 ---------------------------------------------------------------
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
-###### Twitter : <a href="https://twitter.com/AhMythDev"> @AhMythDev </a>
+###### Twitter : <a href="https://telegram.me/Zeykerm"> @Zeykerm </a>
 ###### Bitcoin address for donations:  : 1EVwLuwmbsEuej7qJnNquFeQJLsgd2b8Lq
