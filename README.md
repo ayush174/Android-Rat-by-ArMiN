@@ -48,3 +48,8 @@ It consists of two parts :
 ---------------------------------------------------------------
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
 ###### Telegram : <a href="https://telegram.me/Zeykerm"> @Zeykerm </a>
+
+
+hope it will help you
+    thankyou
+
